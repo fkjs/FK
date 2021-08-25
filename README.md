@@ -4,13 +4,6 @@
 
 ## TR: 2013'dan beri web geliştirme üzerine çalışıyorum ve öncelikle C# kullanmama rağmen hem C# hem de PHP'de geliştirme yapıyorum. Hem ön hem de arka uç geliştirmede deneyimim var ve HTML/HTML5, CSS/CSS3, LESS, SASS, XML, JavaScript, jQuery, AJAX ve SQL/MySQL/PostgreSQL'de yetkinim. Ayrıca Java, Scheme/Racket, C, ACL2 (LISP) ve MIPS Assembly dahil ancak bunlarla sınırlı olmamak üzere web tabanlı olmayan birçok dilde yetkinliğim var. Ayrıca bazı küçük Python projelerinde çalıştım ve dili, veri işleme ve benzeri amaçlar için tek seferlik kullanım araçları oluşturmak için kullandım.
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail.svg" />][mail]
-
-
-[mail]: https://twitter.com/mithatcy
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
